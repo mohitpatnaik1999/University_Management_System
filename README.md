@@ -5,3 +5,4 @@
 ![teacher](https://user-images.githubusercontent.com/67367151/142727006-266efaa3-d542-484c-84d9-b57e14c4313e.PNG)
 ![attendance](https://user-images.githubusercontent.com/67367151/142727090-463bd435-b91f-4290-b334-e24f5925f988.PNG)
 ![update](https://user-images.githubusercontent.com/67367151/142727129-a48eaa80-02eb-4989-87b1-39697590a643.PNG)
+![exam](https://user-images.githubusercontent.com/67367151/142727183-86fc417b-3078-4775-8934-6fe24b661c5a.PNG)
