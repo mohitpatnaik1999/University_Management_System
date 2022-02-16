@@ -10,6 +10,3 @@
 ![fee](https://user-images.githubusercontent.com/67367151/142727312-0d742f59-2d12-4383-a60d-bcae56cb083a.PNG)
 ![feeform](https://user-images.githubusercontent.com/67367151/142727381-42a28219-6274-488a-aab3-aca2de16d84e.PNG)
 
-
-https://user-images.githubusercontent.com/67367151/154285875-261bec8e-140c-4fc7-9480-6d2d60da205c.mp4
-
